@@ -1,0 +1,12 @@
+页码	中文标题	英文标题	作者_zh	作者_en
+1	生物基半芳香族共聚酰胺PA5T/56与脂肪族聚酰胺PA56的性能对比	Performance comparison of bio-based semi-aromatic copolyamide PA5T/56 and aliphatic polyamide PA56	张海洋, 郭小炜, 宋云鹤, 田卫东, 管清宝, 游正伟	ZHANG Haiyang, GUO Xiaowei, SONG Yunhe, TIAN Weidong, GUAN Qingbao, YOU Zhengwei
+7	基于静电纺PVDF/GO 复合纳米纤维的摩擦纳米发电机的制备和输出性能	Preparation and output performance of triboelectric nanogenerator based on electrospun PVDF/GO composite nanofibers	钟笑江, 李文龙, 高 兴, 姚广春, 雒 万, 代 阳	ZHONG Xiaojiang, LI Wenlong, GAO Xing, YAO Guangchun, LUO Wan, DAI Yang
+15	高模低缩型聚酯工业丝凝聚态结构与应用特性的关联机制	Correlation mechanism between the condensed structure and application characteristics of high modulus low shrinkage polyester industrial fiber	卫 婷, 陈 瑞, 汤方明, 张 烨, 张 玥, 张玉梅	WEI Ting, CHEN Rui, TANG Fangming, ZHANG Ye, ZHANG Yue, ZHANG Yumei
+22	基于时域有限差分法的 TiO 纳米纤维膜光学数值模拟及优化设计	Simulation and optimization design of optical properties of TiOnanofiber membranes based on finite difference time domain (FDTD)	晏榆洋, 郭竑宇, 斯 阳	YAN Yuyang, GUO Hongyu, SI Yang
+28	经编间隔织物增强亚麻纤维/硅橡胶复合材料的压缩性能	Compressive properties of flax fiber/silicone rubber composites reinforced by warp knitted spacer fabric	周子祥, 陈 思, 石大为	ZHOU Zixiang, CHEN Si, SHI Dawei
+35	天然蚕丝/氨纶包覆参数对包覆纱力学性能的影响	Influence of spinning parameters on mechanical properties of silk/spandex covered yarn	万 玥, 尚欣欣, 高 晶, 劳继红, 王 璐, 关国平	WAN Yue, SHANG Xinxin, GAO Jing, LAO Jihong, WANG Lu, GUAN Guoping
+44	β-环糊精/茶多酚包合物制备及其对涤纶织物的抗菌消臭性能	Preparation of β-cyclodextrin/tea polyphenol inclusion compound and antibacterial/deodorizing performance on polyester composite fabric	朱梦程, 高思梦, 袁如超, 孙德荣, 王学利	ZHU Mengcheng, GAO Simeng, YUAN Ruchao, SUN Derong, WANG Xueli
+52	高速造纸用SSB成形网结构与耐磨损性能	Structure and abrasion resistance properties of SSB forming fabric in high-speed paper manufacturing	陈 秀, 周积学, 顾伯洪, 张 威	CHEN Xiu, ZHOU Jixue, GU Bohong, ZHANG Wei
+59	热辅助吸油材料快速吸附高黏度原油研究现状	Research status of rapid adsorption of high viscosity crude oil by thermally assisted oil absorption materials	杨 昕, 李发学, 王学利, 俞建勇, 张瑞云, 高婷婷	YANG Xin, LI Faxue, WANG Xueli, YU Jianyong, GAO Tingting
+68	纺织基人工血管管壁结构对其性能的影响规律	Influences of the wall structure of textile based vascular prostheses on the properties	胡婧怡, 李超婧, 毛吉富, 王 璐	HU Jingyi, LI Chaojing, MAO Jifu, WANG Lu
+75	结构与工艺要素对PET 有光丝织物对比光泽度的影响	Influence of structure and process elements on the glossiness of PET glossy fabrics	谭玉婷, 夏灵锋, 李 杰, 眭建华	TAN Yuting, XIA Lingfeng, LI Jie, SUI Jianhua
